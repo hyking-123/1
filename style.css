@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, "Microsoft YaHei", sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 60px auto;
+    background-color: white;
+    padding: 40px;
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+h1 {
+    color: #2c3e50;
+    font-size: 36px;
+}
+
+h2 {
+    color: #34495e;
+    margin-top: 32px;
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    font-size: 17px;
+    margin-bottom: 8px;
+}
